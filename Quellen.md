@@ -5,7 +5,7 @@
 ## Quellen :
 
 - Aufgabe 1 A (stackoverflow) : https://stackoverflow.com/q/20906474/24979304 
-- Ersetzung von NaN werte durch den mitllwerte der entsprechende Monats (ChatGPT): https://chatgpt.com/share/67952d82-a010-800e-b6bd-13c623ca5374
+- Ersetzung von NaN werte durch den mittelwerte der entsprechende Monats (ChatGPT): https://chatgpt.com/share/67952d82-a010-800e-b6bd-13c623ca5374
 - Ausreißer Limitierung (Medium) : https://medium.com/@arsalan_zafar/handling-outliers-in-pandas-5cd872eef508
 - One Hot Encoding (Medium) : https://becominghuman.ai/linear-regression-in-python-with-pandas-scikit-learn-72574a2ec1a5
 - Linear Regression (Medium) : https://medium.com/swlh/machine-learning-in-python-building-a-simple-linear-regression-model-using-scikit-learn-50f64996a3ea
